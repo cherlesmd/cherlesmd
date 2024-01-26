@@ -1,7 +1,7 @@
 ### Hi, I am Charlie Martinez Dominguez 👋
 
 - I am a senior at Cal State LA, graduating May 2024, 2024
-- Currently diving deeper into Java and web dev
+- Currently diving deeper into Java / Python and web dev
 
 Was roped into the STEM field since 8th grade with a Lego robotics competition. Failing a college programming course while in high school was further motivation to explore more. Being able to play my Space Invaders Python project and make it my own was the final push I needed to know this was for me. 
 
