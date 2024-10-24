@@ -1,9 +1,8 @@
-### Hi, I am Charlie Martinez Dominguez 👋
+# Charlie Martinez Dominguez 👋
 
-- Graduated with a B.S. in Computer Science May 2024, 2024
-- Currently diving deeper into Java / Python and web dev 
-
-Now I am creating all the projects I am passionate about to further improve myself and learn everything I can. Currently looking for backend job opportunities so I can apply my skills and contribute to something larger. 
+🎓 Studied Computer Science at the University of Cal State LA<br/>
+💻 Working and sharing projects I find interesting to try new technologies and expand my skills<br/>
+📗 Focusing on Java and Javascript<br/>
 <!--
 **cherlesmd/cherlesmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
