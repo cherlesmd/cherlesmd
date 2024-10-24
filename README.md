@@ -5,7 +5,7 @@
 📗 Focusing on Java and Javascript<br/>
 
 ## Find Me Here:
-🎨 [My Portfolio Site](https://www.charliemartinezdominguez.com/)<br/><br/>
+🎨 [Portfolio Site](https://www.charliemartinezdominguez.com/)<br/><br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charlie-martinez-dominguez/) 
 
 ## 💻 Tech Stack:
